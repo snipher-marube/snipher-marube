@@ -21,9 +21,9 @@
 <p align="left">
 <a href="https://twitter.com/snipherdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snipherdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/snipher-marube-956159188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snipher-marube-956159188" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/snipher-marube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="snipher-marube" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15342124/snipher-marube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="snipher-marube" height="30" width="40" /></a>
 <a href="https://instagram.com/snipher_marube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snipher_marube" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https:uc_y320qqnvt9xhrsdixaefa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https:uc_y320qqnvt9xhrsdixaefa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_y320qQnVT9XhRsDiXAEfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https:uc_y320qqnvt9xhrsdixaefa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
