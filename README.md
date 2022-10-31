@@ -1,13 +1,11 @@
-[!MasterHead](https://github.com/snipher-marube/AuthenticationDjangoProject1/blob/master/static/media/gitLogo.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Snipher Marube</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-<img align="right" width=400" alt="coding" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snipher-marube&label=Profile%20views&color=0e75b6&style=flat" alt="snipher-marube" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snipher-marube" alt="snipher-marube" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/snipherdev" target="blank"><img src="https://img.shields.io/twitter/follow/snipherdev?logo=twitter&style=for-the-badge" alt="snipherdev" /></a> </p>
 
