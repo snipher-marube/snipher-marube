@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/snipher-marube/AuthenticationDjangoProject1/blob/master/static/media/bannergithub.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Snipher Marube</h1>
-<h3 align="center">A passionate Fullstack developer from Kenya</h3>
+<h3 align="center">A passionate Fullstack developer student from Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"/>
 
