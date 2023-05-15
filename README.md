@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/15342124/snipher-marube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15342124/snipher-marube" height="30" width="40" /></a>
 <a href="https://instagram.com/snipher_marube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snipher_marube" height="30" width="40" /></a>
 <a href="https://medium.com/@sniphermarube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sniphermarube" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@snipherdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@snipherdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@snipherdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@snipherdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
