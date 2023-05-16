@@ -4,7 +4,9 @@
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
 # 💫 About Me:
-Full-Stack Developer<br> [ Django | <br>HTML | CSS | <br>Heroku | Figma<br> | Python | Bootstrap | Git/Github ]<br>
+As a student with a passion for coding, I have invested time and effort into learning and mastering a variety of programming languages and frameworks. Specifically, I have focused on Python, Django, Bootstrap, CSS, and HTML, and have gained experience building web applications using these technologies.
+With a strong foundation in programming, I am eager to take my skills to the next level and continue learning and growing as a developer. I am always seeking out new challenges and opportunities to enhance my abilities, and I am confident in my ability to quickly adapt to new technologies and programming languages.
+If given the chance, I am excited to apply my existing knowledge and experience while also expanding my skill set to contribute to your team's success.<br>
 
 
 ## 🌐 Socials:
