@@ -25,6 +25,7 @@ If given the chance, I am excited to apply my existing knowledge and experience 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/snipherdev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
