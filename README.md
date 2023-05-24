@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/snipher-marube/AuthenticationDjangoProject1/blob/master/static/media/bannergithub.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Marube Snipher Abel</h1>
-<h3 align="center">A passionate fullstack developer from Kenya</h3>
+<h3 align="center">A passoniate Fullstack developer from Kenya. I love to work with new Technologies and like to learn new things everytime .</h3>
 
 # 💫 About Me:
 As a student with a passion for coding, I have invested time and effort into learning and mastering a variety of programming languages and frameworks. Specifically, I have focused on Python, Django, Bootstrap, CSS, and HTML, and have gained experience building web applications using these technologies.
