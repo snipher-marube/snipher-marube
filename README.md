@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/snipher-marube/AuthenticationDjangoProject1/blob/master/static/media/bannergithub.png)](https://rishavchanda.io)
+[![MasterHead]([https://github.com/snipher-marube/AuthenticationDjangoProject1/blob/master/static/media/bannergithub.png](https://github.com/snipher-marube/AuthenticationDjangoProject1/blob/master/%2B2547%2098%20393182.png))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Marube Snipher Abel</h1>
 <h3 align="center">A passoniate Fullstack developer from Kenya. I love to work with new Technologies and like to learn new things everytime .</h3>
